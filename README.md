@@ -9,4 +9,4 @@ Untuk menjalankan server pada windows:
 Dokumentasi API : https://documenter.getpostman.com/view/8268219/TVK8cLsH
 
 
-By: Zeddin Arief
+Code by Zeddin Arief https://github.com/zeddinarief/Smartlink-test/
