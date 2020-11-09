@@ -17,4 +17,4 @@ class JWTAuth:
     
 
     
-# Code by Zeddin Arief
+# Code by Zeddin Arief https://github.com/zeddinarief/Smartlink-test/
