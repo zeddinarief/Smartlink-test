@@ -7,3 +7,6 @@ Untuk menjalankan server pada windows:
 2. ketik python manage.py runserver
 
 Dokumentasi API : https://documenter.getpostman.com/view/8268219/TVK8cLsH
+
+
+By: Zeddin Arief
